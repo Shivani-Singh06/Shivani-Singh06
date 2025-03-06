@@ -57,3 +57,7 @@
 <img src="https://raw.githubusercontent.com/ShivaniSingh12219767/ShivaniSingh12219767/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="center">
+  <a href="https://www.leetcode.com/shivanisingh21"><img align="center" src="https://leetcard.jacoblin.cool/shivanisingh21?font=patrick_hand&ext=activity&show_rank=true"/></a>
+</p>
