@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Shivani Singh and I'm a Software Developer, from Gurugram</h2>
+<h2 align="left">Hi 👋! My name is Shivani Singh and I'm a Software Developer Intern, from Gurugram</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaniSingh12219767&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivaniSingh12219767&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivani-Singh06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivani-Singh06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ShivaniSingh12219767/ShivaniSingh12219767/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shivani-Singh06/Shivani-Singh06/output/snake.svg" alt="Snake animation" />
 
 
 ###
